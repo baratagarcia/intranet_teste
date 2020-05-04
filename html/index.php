@@ -8,7 +8,7 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="css/bootstrap.min.css" >
 
-    <title>Ping...Pong...Ping</title>
+    <title>Ping...Pong...Ping...Pong</title>
   </head>
   <body>
 
